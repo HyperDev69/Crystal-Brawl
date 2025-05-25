@@ -1,0 +1,11 @@
+{
+    "address": "0.0.0.0",
+    "port": 9339,
+    "gold": 999,
+    "elixir": 999,
+    "chips": 999,
+    "gems": 999,
+    "maintenance": false,
+    "updateURL": "https://github.com/hyperdev69"
+    
+}
